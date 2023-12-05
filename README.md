@@ -4,3 +4,6 @@
 * and so forth
 
 Hello. This is a message from friendly git ghosts.
+
+
+Some additional artificial conflict text, oh no.
