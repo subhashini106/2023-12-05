@@ -3,3 +3,4 @@
 * second item
 * and so forth
 
+Hello. This is a message from friendly git ghosts.
